@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://maomaoumario.vercel.app/sitemap.xml
+Sitemap: https://yinkingpoon-mao.github.io/MaoMaouMario/sitemap.xml
